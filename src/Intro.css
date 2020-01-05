@@ -1,0 +1,27 @@
+.intro-content {
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
+
+@media screen and (min-width: 800px) {
+    .intro-content {
+        max-width: 500px;
+    }
+}
+
+.intro-container {
+    display: flex;
+    flex-flow: row-reverse wrap;
+    justify-content: center;
+}
+
+@media screen and (min-width: 800px) {
+    .intro-container {
+        justify-content: space-between;
+    }
+}
+
+.intro-content > div {
+    margin-bottom: 14px;
+}

@@ -1,0 +1,67 @@
+.selected-paper-list .paper-container {
+    display: flex;
+    flex-flow: row-reverse wrap;
+    justify-content: center;
+}
+
+.selected-paper-list .paper-info {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+}
+
+@media screen and (min-width: 800px) {
+    .selected-paper-list .paper-container {
+        justify-content: space-between;
+    }
+
+    .selected-paper-list .paper-info {
+        max-width: 600px;
+    }
+}
+
+.paper-title {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+ul.author-list {
+    display: inline-flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+
+ul.author-list > li {
+    min-width: max-content;
+}
+
+ul.author-list > li:not(:last-child):after {
+    white-space: pre;
+    content: ", ";
+}
+
+.paper-image-container {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content:center;
+}
+
+.enabled-category {
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}
+
+.paper-topic {
+    font-size: 18px;
+    color: grey;
+    font-style: italic;
+}
+
+.topic-list > li {
+    padding-bottom: 1em;
+}
+
+.topic-paper-list > li {
+    padding-bottom: 1em;
+}
