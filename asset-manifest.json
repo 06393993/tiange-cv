@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tiange-cv/static/css/main.a4763039.chunk.css",
+    "main.js": "/tiange-cv/static/js/main.2a8bf962.chunk.js",
+    "main.js.map": "/tiange-cv/static/js/main.2a8bf962.chunk.js.map",
+    "runtime-main.js": "/tiange-cv/static/js/runtime-main.bdd2db7b.js",
+    "runtime-main.js.map": "/tiange-cv/static/js/runtime-main.bdd2db7b.js.map",
+    "static/js/2.6a7bb2f9.chunk.js": "/tiange-cv/static/js/2.6a7bb2f9.chunk.js",
+    "static/js/2.6a7bb2f9.chunk.js.map": "/tiange-cv/static/js/2.6a7bb2f9.chunk.js.map",
+    "index.html": "/tiange-cv/index.html",
+    "precache-manifest.1b9b99dfca3bc9265fd669225d28f5fd.js": "/tiange-cv/precache-manifest.1b9b99dfca3bc9265fd669225d28f5fd.js",
+    "service-worker.js": "/tiange-cv/service-worker.js",
+    "static/css/main.a4763039.chunk.css.map": "/tiange-cv/static/css/main.a4763039.chunk.css.map",
+    "static/js/2.6a7bb2f9.chunk.js.LICENSE": "/tiange-cv/static/js/2.6a7bb2f9.chunk.js.LICENSE",
+    "static/media/learningtogroup_v1.png": "/tiange-cv/static/media/learningtogroup_v1.35e13c65.png",
+    "static/media/portrait.jpg": "/tiange-cv/static/media/portrait.1e0eeb71.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd2db7b.js",
+    "static/js/2.6a7bb2f9.chunk.js",
+    "static/css/main.a4763039.chunk.css",
+    "static/js/main.2a8bf962.chunk.js"
+  ]
+}
