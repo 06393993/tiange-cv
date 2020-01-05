@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14e7e998cf77bda1b67a772e49150c85",
+    "revision": "b323e6770ef6fea6dc5cb651e2da732d",
     "url": "/tiange-cv/index.html"
   },
   {

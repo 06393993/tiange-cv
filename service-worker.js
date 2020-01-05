@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tiange-cv/precache-manifest.1b9b99dfca3bc9265fd669225d28f5fd.js"
+  "/tiange-cv/precache-manifest.2c7d720b9de7bdf87809c0b20e85f904.js"
 );
 
 self.addEventListener('message', (event) => {
